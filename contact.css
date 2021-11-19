@@ -182,3 +182,11 @@
 
 body {background-color:#3e0748}
 
+.footer
+  {
+      padding:20px;
+      justify-content: center;
+      text-align:center;
+      margin-top:15px;
+      color:white;
+  }

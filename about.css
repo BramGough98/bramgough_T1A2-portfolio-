@@ -99,3 +99,28 @@ body {background-color:#3e0748}
     font-size: 30px;
   }
 
+  .footer
+  {
+      padding:20px;
+      justify-content: center;
+      text-align:center;
+      margin-top:15px;
+      color:white;
+  }
+  .about
+  {
+    position:relative;
+    padding:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white;
+}
+img
+{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35%;
+}
