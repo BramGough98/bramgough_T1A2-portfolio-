@@ -21,8 +21,8 @@ body {background-color:#3e0748}
   {
       font-family: arial;
       padding:10px;
-      justify-content: center;
-      align-content: center;
+      justify-content: right;
+      align-content: right;
       color:white;
   }
   .header
@@ -37,7 +37,7 @@ body {background-color:#3e0748}
   .footer
   {
       padding:20px;
-      justify-content: center;
+      justify-content: right;
       text-align:center;
       margin-top:15px;
       color:white;
@@ -46,8 +46,8 @@ body {background-color:#3e0748}
    .card, .h2
    {
        color:white;
-       align-content: center;
-       justify-content: center;
+       align-content: right;
+       justify-content: right;
    }
 
   @media screen and (max-width:800px)
