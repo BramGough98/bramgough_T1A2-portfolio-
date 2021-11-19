@@ -107,7 +107,7 @@ body {background-color:#3e0748}
       margin-top:15px;
       color:white;
   }
-  .about
+  .about 
   {
     padding:50px;
     display: flex;
@@ -116,6 +116,8 @@ body {background-color:#3e0748}
     flex-direction: column;
     color:white;
 }
+
+
 img
 {
     display:block;
