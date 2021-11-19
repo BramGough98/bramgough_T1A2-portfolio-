@@ -1,7 +1,7 @@
 *
 {
     margin: 0;
-    padding: 0;
+    padding-left: 2.5px;
     box-sizing: border-box;
     font-family:sans-serif
 }
@@ -64,7 +64,7 @@ body {background-color:#3e0748}
   .body 
   {
       font-family: arial;
-      padding:10px;
+      padding-left: 35px;
       justify-content: right;
       align-content: right;
       color:white;
